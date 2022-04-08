@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/webdprojectclient/static/css/main.d8ef6ead.css",
+    "main.js": "/webdprojectclient/static/js/main.2a117bc6.js",
+    "static/media/subject.svg": "/webdprojectclient/static/media/subject.00a687f374d613a4bcea0f6837c1da9e.svg",
+    "static/media/error.svg": "/webdprojectclient/static/media/error.bdf1c60c297dc6528f56fe6a382dacdf.svg",
+    "static/media/teacher.svg": "/webdprojectclient/static/media/teacher.82d5acbfe91b5b28f0569f1fe046714f.svg",
+    "static/media/admin.svg": "/webdprojectclient/static/media/admin.6bdc34eb3cfc9cf8ba83b8123b47d2a6.svg",
+    "static/media/student.svg": "/webdprojectclient/static/media/student.57df12f7fc8791fc60e35c723558b89b.svg",
+    "static/media/success.svg": "/webdprojectclient/static/media/success.cda20d751535eb206ae1a68397158392.svg",
+    "index.html": "/webdprojectclient/index.html",
+    "main.d8ef6ead.css.map": "/webdprojectclient/static/css/main.d8ef6ead.css.map",
+    "main.2a117bc6.js.map": "/webdprojectclient/static/js/main.2a117bc6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8ef6ead.css",
+    "static/js/main.2a117bc6.js"
+  ]
+}
